@@ -207,6 +207,10 @@ img {
     font-size : 1vw;
 }
 
+.btn-pic {
+    padding: 0%;
+}
+
 .contact-square a {
     color          : -webkit-link;
     cursor         : pointer;
